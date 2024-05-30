@@ -1,7 +1,13 @@
 # RuMassa
-![rumassa-register](https://github.com/RumassaProject/Rumassa.Client/assets/145344775/ce5e66b9-b3c6-49b0-8508-2df592722b5f)
+![image](https://github.com/sulton300501/Rumassa-master/assets/148205055/f4c33ed4-7c01-4d15-9093-47bacfac6c2b)
 
-![Home](https://github.com/RumassaProject/Rumassa.Client/assets/145344775/f1c62fd0-bf75-467b-b4e3-2674113691be)
+![image](https://github.com/sulton300501/Rumassa-master/assets/148205055/10e69d35-a898-49aa-9435-2bc33e9d3d2e)
+
+
+![image](https://github.com/sulton300501/Rumassa-master/assets/148205055/1696b295-22f6-4a46-a1e8-066e5d6f2a60)
+
+![image](https://github.com/sulton300501/Rumassa-master/assets/148205055/717a3ff2-8758-4c45-8169-4b8bdf23e98b)
+
 
 ![product](https://github.com/RumassaProject/Rumassa.Client/assets/145344775/8164cab4-1072-4d1c-823b-41b365fbb203)
 
